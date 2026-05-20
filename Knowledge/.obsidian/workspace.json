@@ -20,24 +20,19 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
-          }
-        ]
-      },
-      {
-        "id": "851c1528e813b80a",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "c896788b147b51f9",
+            "id": "3e34bb2c47a6f9b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,13 +196,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c896788b147b51f9",
+  "active": "3e34bb2c47a6f9b8",
   "lastOpenFiles": [
+    "Welcome.md",
+    "This is a webhook test.md",
     "sync-test.md",
     "copilot/copilot-custom-prompts/This is a test.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "Welcome.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
