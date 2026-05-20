@@ -5,7 +5,7 @@ copilot-command-context-menu-order: 1010
 copilot-command-model-key: ""
 copilot-command-last-used: 0
 ---
-Translate {} into Chinese:
+this is a test:
     1. Preserve the meaning and tone
     2. Maintain appropriate cultural context
     3. Keep formatting and structure
