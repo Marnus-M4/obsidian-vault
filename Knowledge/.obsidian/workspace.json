@@ -201,8 +201,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1a0b3330f454573e",
+  "active": "c896788b147b51f9",
   "lastOpenFiles": [
+    "Welcome.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -219,7 +220,6 @@
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
-    "copilot",
-    "Welcome.md"
+    "copilot"
   ]
 }
